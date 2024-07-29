@@ -1,0 +1,5 @@
+commands for conda enviromnet of terminal
+Note: always use " " for any file location , otherwise u encounter error
+
+
+streamlit run "'D:\Deployment_ML_model\multiple_disease_predication_deployment\multiple disease predication_systm _web.py' "
